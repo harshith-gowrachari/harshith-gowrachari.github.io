@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * **Towards Real-Time Digital Twins in Steelmaking: The Role of Reduced Order Methods in Continuous Casting Tundish Process** ([PhD Thesis](https://drive.google.com/file/d/1OgOth6HLPb-1hMipLhVVahgZGV20kRB3/view?usp=sharing)) (Jan 2022 - June 2025)
-  * *mathLab, Mathematics area, SISSA | Industrial collaboration with [Danieli & C. S.p.A.](https://www.danieli.com/en) (OEM of Physical Plants and Equipments)*
+  * *mathLab, Mathematics area, SISSA ; Industrial PhD in collaboration with [Danieli & C. S.p.A.](https://www.danieli.com/en) (OEM of Physical Plants and Equipments Metal Industries)*
   * *Advisor: [Prof. Gianluigi Rozza](http://people.sissa.it/~grozza/) ; Co-Advisor : [Prof. Giovanni Stabile](https://www.giovannistabile.com/)*
   * Mathematical modelling of continuous casting tundish system.
   * Modelling of multiphase, species transport, heat transfer, buoyancy-driven & turbulent flow physics in the tundish.
