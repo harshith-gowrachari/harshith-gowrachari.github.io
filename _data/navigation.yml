@@ -9,9 +9,6 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Education & Experience"
     url: /educationexperience/
 
@@ -20,6 +17,9 @@ main:
 
   - title: "Conferences and Events"
     url: /conferences-and-events/    
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/
