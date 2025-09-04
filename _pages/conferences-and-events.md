@@ -12,34 +12,34 @@ Conference Presentations
 ======
 
 **Harshith Gowrachari** (2025)  
-<span style="color:#333333; font-weight:bold;">Digital twin technologies for steelmaking continuous casting tundish.</span>  
+**Digital twin technologies for steelmaking continuous casting tundish.**  
 *3rd IACM Digital Twins in Engineering Conference & 1st AICOMAS 2025, Paris, France.*  
 Speaker in MS001 - Scientific Deep Learning Approaches for real-time forecast and calibration of digital models.  
 
 **Harshith Gowrachari** (2024)  
-<span style="color:#333333; font-weight:bold;">ROM for interface-capturing of two-phase flow using neural-network shift augmented manifold transformations.</span>  
+**ROM for interface-capturing of two-phase flow using neural-network shift augmented manifold transformations.**  
 *9th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2024), Lisboa, Portugal.*  
 Speaker in MS046 - Cutting-edge model order reduction techniques for CFD.  
 [Talk slides](https://drive.google.com/file/d/18iaUHZm0PSnIZXs5crhxd4eznY31YN65/view?usp=sharing)  
 
 **Harshith Gowrachari** (2024)  
-<span style="color:#333333; font-weight:bold;">Non-linear transformation techniques for model reduction of advection-dominated problems.</span>  
+**Non-linear transformation techniques for model reduction of advection-dominated problems.**  
 *AJS - Analysis Junior Seminars 2023-2024, Mathematics area, SISSA, Trieste, Italy.*  
 [Talk video](https://www.youtube.com/watch?v=ggMeoj8J_5Q)  
 
 **Harshith Gowrachari** (2024)  
-<span style="color:#333333; font-weight:bold;">Reduced order method for multi-phase system of continuous casting tundish.</span>  
+**Reduced order method for multi-phase system of continuous casting tundish.**  
 *Cyber-physical Systems and Digital Twins for the Energy-Intensive Industries, organized by Alessandro Parente, CERTH, Thermi, Thessaloniki, Greece*  
 [Poster link](https://drive.google.com/file/d/1krI66XvC8hQM1socmt-Ipv7RAsW4A7Ph/view?usp=drive_link)  
 
 **Harshith Gowrachari** (2024)  
-<span style="color:#333333; font-weight:bold;">Data-driven reduced order model for advection-dominated problems using neural network shifted proper orthogonal decomposition.</span>  
+**Data-driven reduced order model for advection-dominated problems using neural network shifted proper orthogonal decomposition.**  
 *SIAM Conference on Uncertainty Quantification (UQ24), Trieste, Italy.*  
 Poster at SIAM UQ24 Satellite Event - Power of Diversity in UQ.  
 [Poster link](https://people.sissa.it/~grozza/wp-content/uploads/2023/11/Harshith_MORTech_final.pdf)  
 
 **Harshith Gowrachari** (2023)  
-<span style="color:#333333; font-weight:bold;">Data-driven reduced order model for advection-dominated problems using neural-network shifted proper orthogonal decomposition.</span>  
+**Data-driven reduced order model for advection-dominated problems using neural-network shifted proper orthogonal decomposition.**  
 *MORTech 2023 – 6th International Workshop on Model Reduction Techniques, École Normale Supérieure Paris-Saclay, France.*  
 [Poster link](https://people.sissa.it/~grozza/wp-content/uploads/2023/11/Harshith_MORTech_final.pdf)  
 
