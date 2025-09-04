@@ -14,11 +14,11 @@ Thesis: [Towards Real-Time Digital Twins in Steelmaking: The Role of Reduced Ord
 Advisor : [Prof. Gianluigi Rozza](http://people.sissa.it/~grozza/)  
 Co-Advisor : [Prof. Giovanni Stabile](https://www.giovannistabile.com/)
 
-## Research interests
+## Research Interests
 
+My research focuses on **Computational Fluid Dynamics**, **Reduced Order Modelling**, and **Scientific Machine Learning**.  
 
-***Computational Fluid Dynamics***: multiphase flows, heat transfer, aeroacoustics, and reactive flows
+In particular, my research interests include **multiphase flows**, **heat transfer**, **aeroacoustics**, and **reactive flows** within CFD, with applications ranging from academic studies to industrial problems in **aerospace**, **metal industries**, and **energy**. My work is grounded in the numerical approximation of partial differential equations (PDEs), with experience in discretization methods such as the **Finite Volume** and **Finite Element** methods.
 
-***Reduced Order Modelling***: non-linear model reduction, projection-based and data-driven approaches
+My research interests also include the development of **Reduced Order Methods**, including **projection-based** and **data-driven approaches**, as well as **non-linear model reduction techniques**, and the exploration of **Scientific Machine Learning** to accelerate simulations and enhance predictive modelling.
 
-***Scientific Machine Learning***: accelerating numerical simulation and improving predictive modelling
