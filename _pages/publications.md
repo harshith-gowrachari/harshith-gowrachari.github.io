@@ -10,9 +10,8 @@ Published
 ======
 
 **Harshith Gowrachari**, Nicola Demo, Giovanni Stabile, Gianluigi Rozza (2025).  
-<u>Non-intrusive model reduction of advection-dominated hyperbolic problems using neural network shift-augmented manifold transformation</u>.  
-*Computers & Fluids*, Special Issue on *Fusing Data and Physics: Machine Learning for Computational Fluid Dynamics*.  
-[Preprint](https://arxiv.org/abs/2401.12345) | [Journal](https://doi.org/10.1016/j.compfluid.2025.106758)
+<u>Non-intrusive model reduction of advection-dominated hyperbolic problems using neural network shift-augmented manifold transformation</u>. *Computers & Fluids*, Special Issue on *Fusing Data and Physics: Machine Learning for Computational Fluid Dynamics*.  
+[Preprint](https://doi.org/10.48550/arXiv.2407.18419) | [Journal](https://doi.org/10.1016/j.compfluid.2025.106758)
 
 Preprints
 ======
