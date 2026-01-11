@@ -29,9 +29,6 @@ Preprints
 <u>Reservoir computing based predictive reduced order model for steel grade intermixing in an industrial continuous casting tundish</u>.  
 [Preprint](https://doi.org/10.48550/arXiv.2509.26293)
 
-
-In Preparation
-======
-
-**Harshith Gowrachari**, Mattia G. Barra, Giovanni Stabile, Gianluca Bazzaro, Gianluigi Rozza  
-Data driven reduced order model for residence time distribution analysis of an industrial-scale continuous casting tundish.
+**Harshith Gowrachari**, Mattia G. Barra, Giovanni Stabile, Gianluca Bazzaro, Gianluigi Rozza (2026).
+<u>Data-driven reduced order model for residence time distribution analysis of an industrial-scale continuous casting tundish</u>.
+[Preprint](https://doi.org/10.48550/arXiv.2601.00244)
