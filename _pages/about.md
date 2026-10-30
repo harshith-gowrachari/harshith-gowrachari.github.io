@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "Hi, Welcome to Harshith Gowrachari's website"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Bio
+I am **Harshith Gowrachari**, a **Postdoctoral Researcher** at **ONERA, The French Aerospace Lab**, in Toulouse. I build **fast, accurate predictive models** for **complex flows** by combining **computational fluid dynamics (CFD)**, **reduced order modelling (ROM)**, and **scientific machine learning (SciML)**.
 
-I am a **Computational Scientist** with a background in **Applied Mathematics** and **Aerospace Engineering**, specializing in **Advanced Aerodynamics and Propulsion**. My work combines computational fluid dynamics (CFD), numerical modeling, high-fidelity simulations, high-performance computing (HPC), reduced order methods, and machine learning to tackle complex problems in aerospace, metallurgy, and energy sectors.
+I currently work on the EU-funded [**Impact Monitor 2**](https://impactmonitor.eu/im2/) project with **DLR** and **NLR**, modelling the **impact of aviation on air pollution**, including **reactive atmospheric chemistry**. I also maintain the open-source Python library **miiPy**.
 
 ## Research Interests
 
-My research focuses on **Computational Fluid Dynamics**, **Reduced Order Modelling**, and **Scientific Machine Learning**.  
-
-I am particularly interested in **reactive and multiphase flows**, **heat transfer**, **aeroacoustics**, and **aerodynamics**, with applications ranging from academic studies to industrial problems in **aerospace**, **metal industries**, and **energy**, and more recently in **climate physics**.  My work is grounded in the numerical approximation of partial differential equations (PDEs), with experience in discretization methods such as the **Finite Volume**, **Finite Element**, and **Finite Difference** methods. 
-
-I am also focused on **reduced order methods**, including **projection-based** and **data-driven approaches**, as well as **non-linear model reduction techniques** for the construction of efficient and accurate reduced order models, and on exploring **Scientific Machine Learning** to accelerate simulations and enhance predictive modelling.
+- **Computational fluid dynamics:** reactive and multiphase flows, heat transfer, aerodynamics, and aeroacoustics
+- **Reduced order modelling:** projection-based, data-driven, and nonlinear methods, especially for **advection-dominated problems**
+- **Scientific machine learning:** accelerating simulations and improving predictive modelling
+- **Numerical methods:** finite volume, finite element, and finite difference methods for PDEs
+- **Applications:** aerospace, metallurgical processes, energy, and aviation-related air pollution with reactive chemistry
